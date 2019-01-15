@@ -2,6 +2,12 @@
 
 > A Vue.js project
 
+score:评分 String（例：3.7）
+ifShow:是否显示评分值 Boolean（例：true）
+starOffImg:灰掉的图片路径 String
+starOnImg:高亮的图片路径 String
+
+
 ## Build Setup
 
 ``` bash
